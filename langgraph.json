@@ -1,0 +1,11 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "research_assistant": "./cybersecurity_research_assistant.py:graph"
+  },
+  "env": "./env/.env",
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ]
+}
