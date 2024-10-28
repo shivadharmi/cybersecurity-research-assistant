@@ -130,3 +130,8 @@ To run the full report for October 2023:
 ```console
 python main.py full --month October --year 2023
 ```
+
+## Roadmap
+
+- **Weekly Reports**: Implement functionality to generate weekly cybersecurity reports in addition to the existing monthly reports. This will allow for more frequent updates and timely insights into cybersecurity threats and vulnerabilities.
+- **Daily Reports**: Explore the possibility of generating daily cybersecurity reports to provide real-time insights and updates on emerging threats and vulnerabilities.
